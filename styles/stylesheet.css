@@ -1,0 +1,147 @@
+* {
+  text-align: left;
+}
+body {
+    background-color: #E8FFDC;
+    color: black;
+    font-size: 1.1em;
+}
+h1 {
+    color: #0BFF00;
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: #0BFF00;
+}
+h4 {
+    color: black;
+}
+.rotten-tomato {
+    border: solid 1px black;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+}
+.rotten-tomato thead th {
+    background-color: white;
+    border: solid 1px black;
+    color: #336B6B;
+    padding: 10px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #fff;
+}
+.rotten-tomato tbody td {
+    border: solid 1px black;
+    color: #333;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #fff;
+}
+.sesame-pic {
+    border: solid 2px #0BFF00;
+}
+.watch-pic {
+    border: solid 2px #0BFF00;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#mainMenu {
+	margin: 10px;
+	width: 900px;
+	font-family: sans-serif;
+}
+#mainMenu li {
+	display:block;
+	width:120px;
+	margin-left:2px;
+	border:1px solid #000;
+}
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#0BFF00;
+	color:black;
+}
+#eightyfour {
+	color: red;
+}
+#eightyseven {
+	color: red;
+}
+#seventy {
+	color: red;
+}
+#seventynine {
+	color: red;
+}
+#seventyeight {
+	color: red;
+}
+#ninety {
+	color: #0BFF00;
+}
+#ninetyone {
+	color: #0BFF00;
+}
+#ninetytwo {
+	color: #0BFF00;
+}
+#ninetythree {
+	color: #0BFF00;
+}
+#ninetyfive {
+	color: #0BFF00;
+}
+#ninetysix {
+	color: #0BFF00;
+}
+#ninetyseven {
+	color: #0BFF00;
+}
+#ninetyeight {
+	color: #0BFF00;
+}
+#ninetynine {
+	color: #0BFF00;
+}
+#onehundred {
+	color: #0BFF00;
+}
+#sesameplace {
+	border: solid 2px #0BFF00;
+  height: 400px;
+  width: 500px;
+}
+#q {
+	color: blue;
+}
+#qu {
+	color: blue;
+}
+#que {
+	color: blue;
+}
+#a {
+	color: red;
+}
+#an {
+	color: red;
+}
+#ans {
+	color: red;
+}
+a[href$=".htm"] {
+  font-style: italic;
+  color: red;
+}
+a:hover {
+  color: #A200FF;
+}
+div p {
+  color: black;
+}
